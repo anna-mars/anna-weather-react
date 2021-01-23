@@ -101,7 +101,7 @@ export default function Weather() {
       </div>
       <small className="open-source">
         <a
-          href="https://github.com/anna-mars/my-vanilla-weather-app"
+          href="https://github.com/anna-mars/anna-weather-react"
           target="_blank"
           rel="noreferrer"
         >
